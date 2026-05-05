@@ -12,6 +12,7 @@ About me:
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/hanwuguang/)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/hanwg)
+[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/1370266401834795068)
 
 ## 🛠️ Technical Skills
 
