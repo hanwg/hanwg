@@ -1,6 +1,4 @@
-## 👋 Hi there!
-
-My name is **Wuguang**.
+## 👋 Hi there, I'm Wuguang!
 
 About me:
 * 📍 I am based in **Singapore** (UTC +08:00).
